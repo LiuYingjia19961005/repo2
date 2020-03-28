@@ -8,13 +8,4 @@
 
 
 
-1000000000000000000000000000
-
-<<<<<<< HEAD
-
-
-test MMMMMMMMMMMMMMMMMMMMMMMMMMM
-=======
-admin
-123
->>>>>>> f114d06a870d21716751f8828bb02bedddbffac1
+kkkkkkkkkkkkkkkkkkkkkk 88888888888888888
